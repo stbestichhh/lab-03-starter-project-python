@@ -2,3 +2,4 @@ fastapi==0.110.0
 pydantic==1.10.14
 starlette==0.36.3
 uvicorn==0.29.0
+numpy==1.26.4
